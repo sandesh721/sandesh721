@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandesh N</h1>
 <h3 align="center">A passionate programmer, love to do and learn new things.</h3>
 
-- 📝 I Once in a great while write articles on [https://my-blog-git-main-sandesh721s-projects.vercel.app/](Antaranga)
+- 📝 I Once in a great while write articles on [Antaranga](https://my-blog-git-main-sandesh721s-projects.vercel.app/)
 
 - 📫 How to reach me **sandeshnagaraj8@gmail.com**
 
